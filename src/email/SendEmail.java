@@ -11,8 +11,8 @@ public class SendEmail {
     public static boolean send(String to, String subject, String msg) {
         try {
 
-            String userid = "sudhir8540092862@gmail.com";
-            String password = "dlou kdqj hftg mizq";
+            String userid = "";
+            String password = "";
 
             Properties properties = new Properties();
 
